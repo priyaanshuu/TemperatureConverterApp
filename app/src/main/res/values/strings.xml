@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="fahrenheit">FAHRENHEIT</string>
+    <string name="celsius"></string>
+    <string name="backgroundimge_des">backgroundimg</string>
+    <string name="eidt_hint">0</string>
+    <string name="textResult">0</string>
+</resources>
